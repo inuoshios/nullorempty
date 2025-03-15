@@ -1,0 +1,3 @@
+package nullorempty
+
+func IsNullOrEmpty() {}
