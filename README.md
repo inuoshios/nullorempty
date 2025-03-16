@@ -23,3 +23,12 @@ func main() {
     fmt.Println(nullorempty.IsNullOrEmpty([]int{1, 2})) // false
 }
 ````
+
+# License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+# Contributing
+Please feel free to contribute to this project by submitting pull requests or opening issues. Your contributions are highly appreciated!
+
+# Authors
+- [Inu John](https://github.com/inuoshios)
